@@ -1,0 +1,4 @@
+node_modules
+bin
+claudia*.json
+env.json
